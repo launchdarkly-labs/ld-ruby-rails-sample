@@ -1,0 +1,1 @@
+Rails.configuration.client = LaunchDarkly::LDClient.new("YOUR_SDK_KEY")
